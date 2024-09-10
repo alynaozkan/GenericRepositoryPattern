@@ -1,0 +1,11 @@
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\bin\Debug\net8.0\Presentation.Entities.deps.json
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\bin\Debug\net8.0\Presentation.Entities.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\bin\Debug\net8.0\Presentation.Entities.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\obj\Debug\net8.0\Presentation.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\obj\Debug\net8.0\Presentation.Entities.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\obj\Debug\net8.0\Presentation.Entities.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\obj\Debug\net8.0\Presentation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\obj\Debug\net8.0\Presentation.Entities.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\obj\Debug\net8.0\refint\Presentation.Entities.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\obj\Debug\net8.0\Presentation.Entities.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Entities\obj\Debug\net8.0\ref\Presentation.Entities.dll

@@ -1,0 +1,11 @@
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\bin\Debug\net8.0\Presentation.Core.deps.json
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\bin\Debug\net8.0\Presentation.Core.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\bin\Debug\net8.0\Presentation.Core.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\obj\Debug\net8.0\Presentation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\obj\Debug\net8.0\Presentation.Core.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\obj\Debug\net8.0\Presentation.Core.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\obj\Debug\net8.0\Presentation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\obj\Debug\net8.0\Presentation.Core.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\obj\Debug\net8.0\refint\Presentation.Core.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\obj\Debug\net8.0\Presentation.Core.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Core\obj\Debug\net8.0\ref\Presentation.Core.dll

@@ -1,0 +1,11 @@
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\bin\Debug\net8.0\Presentation.Business.deps.json
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\bin\Debug\net8.0\Presentation.Business.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\bin\Debug\net8.0\Presentation.Business.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\obj\Debug\net8.0\Presentation.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\obj\Debug\net8.0\Presentation.Business.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\obj\Debug\net8.0\Presentation.Business.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\obj\Debug\net8.0\Presentation.Business.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\obj\Debug\net8.0\Presentation.Business.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\obj\Debug\net8.0\refint\Presentation.Business.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\obj\Debug\net8.0\Presentation.Business.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.Business\obj\Debug\net8.0\ref\Presentation.Business.dll

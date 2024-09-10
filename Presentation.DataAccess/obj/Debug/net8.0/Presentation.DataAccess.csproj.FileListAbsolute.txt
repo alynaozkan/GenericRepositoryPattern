@@ -1,0 +1,17 @@
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\bin\Debug\net8.0\Presentation.DataAccess.deps.json
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\bin\Debug\net8.0\Presentation.DataAccess.runtimeconfig.json
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\bin\Debug\net8.0\Presentation.DataAccess.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\bin\Debug\net8.0\Presentation.DataAccess.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\bin\Debug\net8.0\Presentation.Entities.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\bin\Debug\net8.0\Presentation.Entities.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presentation.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presentation.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presentation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presentation.DataAccess.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presentation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presenta.5362B4AB.Up2Date
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presentation.DataAccess.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\refint\Presentation.DataAccess.dll
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presentation.DataAccess.pdb
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\Presentation.DataAccess.genruntimeconfig.cache
+C:\Users\Aleyna\source\repos\MyBlog\Presentation.DataAccess\obj\Debug\net8.0\ref\Presentation.DataAccess.dll
